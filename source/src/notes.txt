@@ -1,0 +1,36 @@
+Resources used>
+
+https://github.com/akabab/superhero-api
+
+https://github.com/akabab/superhero-api/blob/master/api/glossary.md
+https://akabab.github.io/superhero-api/api/all.json
+
+https://villains.fandom.com/wiki/Main_Page
+
+
+// ---Icons---
+✅
+➡️
+TODOS:
+✅ Add wiki link to database.
+✅ Routers to different pages
+✅ Gradient Text colors FIRE
+✅ Modal with an email address that registration has been send...
+
+
+
+
+// BUGS FREE bude odkayovat na TODO LIST
+// SNACKS - site is under construction build wait....
+    // implement set intervall a little animations
+
+
+
+
+<ul>
+<Link to="/"><a className="button-54" href="#Home" id="home"><li>Home</li></a></Link>
+<a className="button-54" href="#"><li>Snacks</li></a>
+{/* Note this website is definetly not BUGS free */}
+<Link to="bugsfree"><a className="button-54 gradient-anim" href="#"><li>Bugs Free</li></a></Link>
+
+</ul>
