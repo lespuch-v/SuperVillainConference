@@ -1,13 +1,12 @@
 # SuperVillainConference
-Fun learning project build with React library
+Fun learning project build with React library.
+<h1>https://lespuch-v.github.io/SuperVillainConference</h1>
 
-Resources used>
-
+Resources used:
+https://reactjs.org/docs/getting-started.html
 https://github.com/akabab/superhero-api
-
 https://github.com/akabab/superhero-api/blob/master/api/glossary.md
 https://akabab.github.io/superhero-api/api/all.json
-
 https://villains.fandom.com/wiki/Main_Page
 
 NOTE: This project was build educationals purposes!
