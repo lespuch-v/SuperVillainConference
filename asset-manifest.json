@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/SuperVillainConference/static/css/main.6837de0f.css",
+    "main.js": "/SuperVillainConference/static/js/main.d63edc74.js",
+    "static/js/787.d5fbb612.chunk.js": "/SuperVillainConference/static/js/787.d5fbb612.chunk.js",
+    "static/media/doomsday.jpg": "/SuperVillainConference/static/media/doomsday.3de7623a34f013cf81f4.jpg",
+    "static/media/riddler.jpg": "/SuperVillainConference/static/media/riddler.49c525e61d3fcd131acb.jpg",
+    "static/media/lizard.jpg": "/SuperVillainConference/static/media/lizard.b936f066adadbe922668.jpg",
+    "static/media/lex.jpg": "/SuperVillainConference/static/media/lex.facf044f9f8fc106ebbf.jpg",
+    "static/media/mephisto.jpg": "/SuperVillainConference/static/media/mephisto.0dcc5fec1aa3a922d234.jpg",
+    "static/media/steppenwolf.jpg": "/SuperVillainConference/static/media/steppenwolf.e465b04b2e1309941962.jpg",
+    "static/media/loki.jpg": "/SuperVillainConference/static/media/loki.6c1bdb5bced0db58371d.jpg",
+    "static/media/marvel.jpg": "/SuperVillainConference/static/media/marvel.66d72bcd5f4726a4532c.jpg",
+    "static/media/rocketraccoon.png": "/SuperVillainConference/static/media/rocketraccoon.51d29d5a529cb75c471e.png",
+    "static/media/joker.jpg": "/SuperVillainConference/static/media/joker.16a6c378b8596c4fdccc.jpg",
+    "static/media/poison-ivy.jpg": "/SuperVillainConference/static/media/poison-ivy.5d64df7fa833c888d23c.jpg",
+    "static/media/magneto.jpg": "/SuperVillainConference/static/media/magneto.7de2057b49f7c0dd08df.jpg",
+    "static/media/sauron.jpg": "/SuperVillainConference/static/media/sauron.e79eacc58602ae727e08.jpg",
+    "static/media/grey.png": "/SuperVillainConference/static/media/grey.6e76f1ab2fb93f47c8ca.png",
+    "static/media/work2.png": "/SuperVillainConference/static/media/work2.a846d89c0f38d39cbad7.png",
+    "static/media/work.png": "/SuperVillainConference/static/media/work.41122b347208d14d802c.png",
+    "index.html": "/SuperVillainConference/index.html",
+    "main.6837de0f.css.map": "/SuperVillainConference/static/css/main.6837de0f.css.map",
+    "main.d63edc74.js.map": "/SuperVillainConference/static/js/main.d63edc74.js.map",
+    "787.d5fbb612.chunk.js.map": "/SuperVillainConference/static/js/787.d5fbb612.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6837de0f.css",
+    "static/js/main.d63edc74.js"
+  ]
+}
