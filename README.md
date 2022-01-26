@@ -1,6 +1,6 @@
 # SuperVillainConference
 Fun learning project build with React library.
-<h1>Try is here: https://lespuch-v.github.io/SuperVillainConference</h1>
+<h3>Try is here: https://lespuch-v.github.io/SuperVillainConference</h3>
 
 Resources used:
 <ul>
