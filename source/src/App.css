@@ -1,5 +1,6 @@
 body {
   background-image: url("./images/bg/grey.png");
+
 }
 .main-container {
   display: flex;
@@ -356,6 +357,8 @@ a{
   .bugs-container{
     width: 340px;
   }
+  .footer-container {
+    width: 700px;
 }
 @media screen and (max-width:600px)  {
   .name-email{
@@ -364,12 +367,19 @@ a{
   .bugs-container{
     width: 340px;
   }
+  .footer-container {
+    width: 00px;
+}
 }
 @media screen and (max-width:600px)  {
   .name-email{
     width: 400px;
   }
+  .footer-container {
+    width: 300px;
+}
   .bugs-container{
     width: 340px;
   }
+}
 }
