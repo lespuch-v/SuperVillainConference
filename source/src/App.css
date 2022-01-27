@@ -381,5 +381,8 @@ a{
   .bugs-container{
     width: 340px;
   }
+  .main-container{
+    box-shadow: none;
+  }
 }
 }

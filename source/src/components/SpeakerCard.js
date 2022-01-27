@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 
 export default function SpeakerCards(props) {
-  console.log(props);
   // Conditional Rendering for the BASE
   const styles = {
     width: props.on ? "600px" : null,
