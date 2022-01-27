@@ -10,6 +10,7 @@ Fun learning project build with React library.
   <li>https://akabab.github.io/superhero-api/api/all.json</li>
   <li>https://villains.fandom.com/wiki/Main_Page</li>
   </ul>
-NOTE: This project was build educationals purposes!
+NOTE: This project was build educationals purposes!!!
+
 
 ![151243786-e367e936-7792-4ce9-bb43-c6e9b09a3dfe](https://user-images.githubusercontent.com/36127590/151301663-a5f9efaa-efe9-42c1-9e9f-74b71ac8b27d.png)
