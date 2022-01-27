@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/SuperVillainConference/static/css/main.f86dd9c8.css",
+    "main.css": "/SuperVillainConference/static/css/main.6aa8955e.css",
     "main.js": "/SuperVillainConference/static/js/main.ab634718.js",
     "static/js/787.d5fbb612.chunk.js": "/SuperVillainConference/static/js/787.d5fbb612.chunk.js",
     "static/media/doomsday.jpg": "/SuperVillainConference/static/media/doomsday.3de7623a34f013cf81f4.jpg",
@@ -20,12 +20,12 @@
     "static/media/work2.png": "/SuperVillainConference/static/media/work2.a846d89c0f38d39cbad7.png",
     "static/media/work.png": "/SuperVillainConference/static/media/work.41122b347208d14d802c.png",
     "index.html": "/SuperVillainConference/index.html",
-    "main.f86dd9c8.css.map": "/SuperVillainConference/static/css/main.f86dd9c8.css.map",
+    "main.6aa8955e.css.map": "/SuperVillainConference/static/css/main.6aa8955e.css.map",
     "main.ab634718.js.map": "/SuperVillainConference/static/js/main.ab634718.js.map",
     "787.d5fbb612.chunk.js.map": "/SuperVillainConference/static/js/787.d5fbb612.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f86dd9c8.css",
+    "static/css/main.6aa8955e.css",
     "static/js/main.ab634718.js"
   ]
 }

@@ -113,6 +113,11 @@ form .button-54 {
   flex-direction: column;
   padding: 5px;
   box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+  cursor: pointer;
+  transition: transform 250ms;
+}
+.card-speaker:hover{
+  transform: scale(1.03);
 }
 .footer-container {
   width: 1000px;
@@ -343,4 +348,28 @@ a{
 .modal h1{
   margin: 10px;
   font-size: 1.8em;
+}
+@media screen and (max-width:900px)  {
+  .name-email{
+    width: 700px; 
+  }
+  .bugs-container{
+    width: 340px;
+  }
+}
+@media screen and (max-width:600px)  {
+  .name-email{
+    width: 600px;
+  }
+  .bugs-container{
+    width: 340px;
+  }
+}
+@media screen and (max-width:600px)  {
+  .name-email{
+    width: 400px;
+  }
+  .bugs-container{
+    width: 340px;
+  }
 }
